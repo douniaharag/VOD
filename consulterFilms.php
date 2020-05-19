@@ -7,8 +7,8 @@
 		<div class="onglets">
 			<nav>
 				<ul>
-                    <li><a href="accueil.html">Accueil</a></li>
-					<li><a href= "consulterFilms.php" "">Consulter</a></li>
+                    <li><a href="vod.html">Accueil</a></li>
+					<li><a href= "consulterFilms.php" >Consulter</a></li>
 					<li><a href=  "saisieTitreRecherche.html">Rechercher</a></li>
 					<li><a href=  "saisieFilm.html">Ajouter</a></li>
 					<li><a href= "saisieTitreSuppression.html">Supprimer</a></li>	
